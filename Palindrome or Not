@@ -1,4 +1,3 @@
-package pradeep;
 import java.util.Scanner;
 import static org.junit.Assert.assertTrue;
 public class compare {
